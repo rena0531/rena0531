@@ -1,6 +1,9 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rena0531&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rena0531&layout=compact&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=rena0531&count_private=true&theme=dracula" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena0531&layout=compact&count_private=true&theme=dracula" />
+</p>
 
 <!--
 **rena0531/rena0531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
